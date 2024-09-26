@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(65, 65, 156);
+    padding:3rem;
+    color:aliceblue;
+    border-radius: 5px;
+}
